@@ -173,13 +173,13 @@ namespace StriveOverlay
                     switch (wallP1Perc)
                     {
                         case var expression when wallP1Perc <= 75:
-                            barP1color = graphics.CreateSolidBrush(6, 178, 37, 1);
+                            barP1color = graphics.CreateSolidBrush(6, 178, 37, 255);
                             break;
                         case var expression when wallP1Perc <= 90:
-                            barP1color = graphics.CreateSolidBrush(255, 174, 0, 1);
+                            barP1color = graphics.CreateSolidBrush(255, 174, 0, 255);
                             break;
                         case var expression when wallP1Perc > 90:
-                            barP1color = graphics.CreateSolidBrush(201, 37, 0, 1);
+                            barP1color = graphics.CreateSolidBrush(201, 37, 0, 255);
                             break;
                         default:
                             barP1color = graphics.CreateSolidBrush(0, 0, 0, 0);
