@@ -1,0 +1,15 @@
+C:\Users\kr3k\Desktop\StriveUtils-master\MemoryLib\bin\Debug\net46\MemoryLib.dll
+C:\Users\kr3k\Desktop\StriveUtils-master\MemoryLib\bin\Debug\net46\MemoryLib.pdb
+C:\Users\kr3k\Desktop\StriveUtils-master\MemoryLib\obj\Debug\net46\MemoryLib.AssemblyInfoInputs.cache
+C:\Users\kr3k\Desktop\StriveUtils-master\MemoryLib\obj\Debug\net46\MemoryLib.AssemblyInfo.cs
+C:\Users\kr3k\Desktop\StriveUtils-master\MemoryLib\obj\Debug\net46\MemoryLib.csproj.CoreCompileInputs.cache
+C:\Users\kr3k\Desktop\StriveUtils-master\MemoryLib\obj\Debug\net46\MemoryLib.dll
+C:\Users\kr3k\Desktop\StriveUtils-master\MemoryLib\obj\Debug\net46\MemoryLib.pdb
+C:\Users\kr3k\Desktop\StriveUtils-master\MemoryLib\obj\Debug\net46\MemoryLib.csprojAssemblyReference.cache
+C:\Users\kr3k\Desktop\DEV\others\StriveUtils-master\MemoryLib\bin\Debug\net46\MemoryLib.dll
+C:\Users\kr3k\Desktop\DEV\others\StriveUtils-master\MemoryLib\bin\Debug\net46\MemoryLib.pdb
+C:\Users\kr3k\Desktop\DEV\others\StriveUtils-master\MemoryLib\obj\Debug\net46\MemoryLib.AssemblyInfoInputs.cache
+C:\Users\kr3k\Desktop\DEV\others\StriveUtils-master\MemoryLib\obj\Debug\net46\MemoryLib.AssemblyInfo.cs
+C:\Users\kr3k\Desktop\DEV\others\StriveUtils-master\MemoryLib\obj\Debug\net46\MemoryLib.csproj.CoreCompileInputs.cache
+C:\Users\kr3k\Desktop\DEV\others\StriveUtils-master\MemoryLib\obj\Debug\net46\MemoryLib.dll
+C:\Users\kr3k\Desktop\DEV\others\StriveUtils-master\MemoryLib\obj\Debug\net46\MemoryLib.pdb
